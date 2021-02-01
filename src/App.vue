@@ -123,4 +123,10 @@
 		display: flex;
 		align-items: stretch;
 	}
+	.specification {
+		color: white;
+		background-color: rgb(108, 2, 189);
+		margin-right: 7px;
+		padding: 5px 7px;
+	}
 </style>
